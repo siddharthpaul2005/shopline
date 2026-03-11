@@ -1,4 +1,4 @@
-# FreshMart - Grocery Marketplace Frontend
+# ShopLine - Grocery Marketplace Frontend
 
 A complete multi-role grocery marketplace built with React, React Router DOM, Tailwind CSS, and Axios.
 
