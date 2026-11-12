@@ -195,6 +195,8 @@ erDiagram
 
 ## 🏁 Getting started
 
+> 📘 **Running it for the first time after forking?** Follow **[SETUP.md](SETUP.md)**. It has every command for Windows and macOS/Linux, both database options, and a troubleshooting table. Below is the short version.
+
 ### Prerequisites
 - **Java 21+** (`java -version`)
 - **Node.js 18+** (`node -v`)
